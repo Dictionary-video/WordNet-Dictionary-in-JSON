@@ -1,0 +1,6026 @@
+{
+    "X": {
+        "word": "X",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13768652",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of nine and one; the base of the decimal system",
+                "synonyms": [
+                    "ten",
+                    "10",
+                    "tenner",
+                    "decade"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            },
+            {
+                "synset_offset": "06846713",
+                "sense_number": 2,
+                "part_of_speech": "noun",
+                "def": "the 24th letter of the Roman alphabet",
+                "synonyms": [
+                    "x",
+                    "ex"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "letter",
+                        "letter of the alphabet",
+                        "alphabetic character"
+                    ],
+                    "member_holonym": [
+                        "Roman alphabet",
+                        "Latin alphabet"
+                    ]
+                }
+            },
+            {
+                "synset_offset": "02681592",
+                "sense_number": 3,
+                "part_of_speech": "noun",
+                "def": "street names for methylenedioxymethamphetamine",
+                "synonyms": [
+                    "Adam",
+                    "ecstasy",
+                    "XTC",
+                    "go",
+                    "disco biscuit",
+                    "cristal",
+                    "hug drug"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "methylenedioxymethamphetamine",
+                        "MDMA"
+                    ]
+                }
+            }
+        ]
+    },
+    "x": {
+        "word": "x",
+        "pos_order": [
+            "adjective",
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02194935",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being one more than nine",
+                "synonyms": [
+                    "ten",
+                    "10"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            },
+            {
+                "synset_offset": "06846713",
+                "sense_number": 2,
+                "part_of_speech": "noun",
+                "def": "the 24th letter of the Roman alphabet",
+                "synonyms": [
+                    "X",
+                    "ex"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "letter",
+                        "letter of the alphabet",
+                        "alphabetic character"
+                    ],
+                    "member_holonym": [
+                        "Roman alphabet",
+                        "Latin alphabet"
+                    ]
+                }
+            }
+        ]
+    },
+    "x-axis": {
+        "word": "x-axis",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "06018582",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the horizontal axis in a plane coordinate system",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "coordinate axis"
+                    ]
+                }
+            }
+        ]
+    },
+    "X-linked dominant inheritance": {
+        "word": "X-linked dominant inheritance",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "04930476",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "hereditary pattern in which a dominant gene on the X chromosome causes a characteristic to be manifested in the offspring",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "inheritance",
+                        "hereditary pattern"
+                    ]
+                }
+            }
+        ]
+    },
+    "X-linked gene": {
+        "word": "X-linked gene",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "05449505",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a gene located on an X chromosome",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "gene",
+                        "cistron",
+                        "factor"
+                    ]
+                }
+            }
+        ]
+    },
+    "X-linked recessive inheritance": {
+        "word": "X-linked recessive inheritance",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "04930673",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "hereditary pattern in which a recessive gene on the X chromosome results in the manifestation of characteristics in male offspring and a carrier state in female offspring",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "inheritance",
+                        "hereditary pattern"
+                    ]
+                }
+            }
+        ]
+    },
+    "X-linked SCID": {
+        "word": "X-linked SCID",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14152833",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "SCID in male children resulting from mutation of a gene that codes for a protein on the surface of T cells that allows them to develop a growth factor receptor",
+                "synonyms": [
+                    "X-SCID"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "severe combined immunodeficiency",
+                        "severe combined immunodeficiency disease",
+                        "SCID"
+                    ]
+                }
+            }
+        ]
+    },
+    "X-OR circuit": {
+        "word": "X-OR circuit",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "04616711",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "gate for exclusive OR; a circuit in a computer that fires only if only one of its inputs fire",
+                "synonyms": [
+                    "XOR circuit",
+                    "XOR gate"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "gate",
+                        "logic gate"
+                    ]
+                }
+            }
+        ]
+    },
+    "X-radiation": {
+        "word": "X-radiation",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "11547628",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "electromagnetic radiation of short wavelength produced when high-speed electrons strike a solid target",
+                "synonyms": [
+                    "X ray",
+                    "X-ray",
+                    "roentgen ray"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "electromagnetic radiation",
+                        "electromagnetic wave",
+                        "nonparticulate radiation",
+                        "ionizing radiation"
+                    ]
+                }
+            },
+            {
+                "synset_offset": "00903014",
+                "sense_number": 2,
+                "part_of_speech": "noun",
+                "def": "obtaining images by the use of X rays",
+                "synonyms": [
+                    "X-raying"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "imaging",
+                        "tomography"
+                    ],
+                    "hyponym": [
+                        "computerized tomography",
+                        "computed tomography",
+                        "CT",
+                        "computerized axial tomography",
+                        "computed axial tomography",
+                        "CAT"
+                    ]
+                }
+            }
+        ]
+    },
+    "X-ray": {
+        "word": "X-ray",
+        "pos_order": [
+            "noun",
+            "verb"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "11547628",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "electromagnetic radiation of short wavelength produced when high-speed electrons strike a solid target",
+                "synonyms": [
+                    "X ray",
+                    "X-radiation",
+                    "roentgen ray"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "electromagnetic radiation",
+                        "electromagnetic wave",
+                        "nonparticulate radiation",
+                        "ionizing radiation"
+                    ]
+                }
+            },
+            {
+                "synset_offset": "04107714",
+                "sense_number": 2,
+                "part_of_speech": "noun",
+                "def": "a radiogram made by exposing photographic film to X rays; used in medical diagnosis",
+                "synonyms": [
+                    "roentgenogram",
+                    "X ray",
+                    "X-ray picture",
+                    "X-ray photograph"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "radiogram",
+                        "radiograph",
+                        "shadowgraph",
+                        "skiagraph",
+                        "skiagram"
+                    ],
+                    "hyponym": [
+                        "angiocardiogram",
+                        "angiogram",
+                        "arteriogram",
+                        "arthrogram",
+                        "encephalogram",
+                        "pneumoencephalogram",
+                        "hysterosalpingogram",
+                        "mammogram",
+                        "myelogram",
+                        "pyelogram",
+                        "venogram",
+                        "phlebogram"
+                    ]
+                }
+            }
+        ]
+    },
+    "X-ray diffraction": {
+        "word": "X-ray diffraction",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "11547837",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the scattering of X rays by the atoms of a crystal; the diffraction pattern shows structure of the crystal",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "diffraction"
+                    ]
+                }
+            }
+        ]
+    },
+    "X-ray film": {
+        "word": "X-ray film",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "04616888",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "photographic film used to make X-ray pictures",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "film",
+                        "photographic film"
+                    ],
+                    "hyponym": [
+                        "bitewing"
+                    ]
+                }
+            }
+        ]
+    },
+    "X-ray machine": {
+        "word": "X-ray machine",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "04617008",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "an apparatus that provides a source of X rays",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "apparatus",
+                        "setup"
+                    ],
+                    "hyponym": [
+                        "fluoroscope",
+                        "roentgenoscope",
+                        "tomograph"
+                    ],
+                    "part_meronym": [
+                        "X-ray tube"
+                    ]
+                }
+            }
+        ]
+    },
+    "X-ray photograph": {
+        "word": "X-ray photograph",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "04107714",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a radiogram made by exposing photographic film to X rays; used in medical diagnosis",
+                "synonyms": [
+                    "roentgenogram",
+                    "X ray",
+                    "X-ray",
+                    "X-ray picture"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "radiogram",
+                        "radiograph",
+                        "shadowgraph",
+                        "skiagraph",
+                        "skiagram"
+                    ],
+                    "hyponym": [
+                        "angiocardiogram",
+                        "angiogram",
+                        "arteriogram",
+                        "arthrogram",
+                        "encephalogram",
+                        "pneumoencephalogram",
+                        "hysterosalpingogram",
+                        "mammogram",
+                        "myelogram",
+                        "pyelogram",
+                        "venogram",
+                        "phlebogram"
+                    ]
+                }
+            }
+        ]
+    },
+    "X-ray photography": {
+        "word": "X-ray photography",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "00906321",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "radiography that uses X-rays to produce a roentgenogram",
+                "synonyms": [
+                    "roentgenography"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "radiography",
+                        "diagnostic procedure",
+                        "diagnostic technique"
+                    ],
+                    "hyponym": [
+                        "angiography",
+                        "arthrography",
+                        "cholangiography",
+                        "encephalography",
+                        "myelography",
+                        "pyelography"
+                    ]
+                }
+            }
+        ]
+    },
+    "X-ray picture": {
+        "word": "X-ray picture",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "04107714",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a radiogram made by exposing photographic film to X rays; used in medical diagnosis",
+                "synonyms": [
+                    "roentgenogram",
+                    "X ray",
+                    "X-ray",
+                    "X-ray photograph"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "radiogram",
+                        "radiograph",
+                        "shadowgraph",
+                        "skiagraph",
+                        "skiagram"
+                    ],
+                    "hyponym": [
+                        "angiocardiogram",
+                        "angiogram",
+                        "arteriogram",
+                        "arthrogram",
+                        "encephalogram",
+                        "pneumoencephalogram",
+                        "hysterosalpingogram",
+                        "mammogram",
+                        "myelogram",
+                        "pyelogram",
+                        "venogram",
+                        "phlebogram"
+                    ]
+                }
+            }
+        ]
+    },
+    "X-ray therapy": {
+        "word": "X-ray therapy",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "00707386",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the therapeutic use of X rays",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "radiotherapy",
+                        "radiation therapy",
+                        "radiation",
+                        "actinotherapy",
+                        "irradiation"
+                    ]
+                }
+            }
+        ]
+    },
+    "X-ray tube": {
+        "word": "X-ray tube",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "04617168",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a vacuum tube containing a metal target onto which a beam of electrons is directed at high energy for the generation of X rays",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "tube",
+                        "vacuum tube",
+                        "thermionic vacuum tube",
+                        "thermionic tube",
+                        "electron tube",
+                        "thermionic valve"
+                    ],
+                    "part_holonym": [
+                        "X-ray machine"
+                    ]
+                }
+            }
+        ]
+    },
+    "X-raying": {
+        "word": "X-raying",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "00903014",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "obtaining images by the use of X rays",
+                "synonyms": [
+                    "X-radiation"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "imaging",
+                        "tomography"
+                    ],
+                    "derivationally_related_form": [
+                        "x-ray"
+                    ],
+                    "hyponym": [
+                        "computerized tomography",
+                        "computed tomography",
+                        "CT",
+                        "computerized axial tomography",
+                        "computed axial tomography",
+                        "CAT"
+                    ]
+                }
+            }
+        ]
+    },
+    "X-SCID": {
+        "word": "X-SCID",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14152833",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "SCID in male children resulting from mutation of a gene that codes for a protein on the surface of T cells that allows them to develop a growth factor receptor",
+                "synonyms": [
+                    "X-linked SCID"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "severe combined immunodeficiency",
+                        "severe combined immunodeficiency disease",
+                        "SCID"
+                    ]
+                }
+            }
+        ]
+    },
+    "X chromosome": {
+        "word": "X chromosome",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "05450170",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the sex chromosome that is present in both sexes: singly in males and doubly in females",
+                "example": [
+                    "human females normally have two X chromosomes"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "sex chromosome"
+                    ]
+                }
+            }
+        ]
+    },
+    "X ray": {
+        "word": "X ray",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "11547628",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "electromagnetic radiation of short wavelength produced when high-speed electrons strike a solid target",
+                "synonyms": [
+                    "X-ray",
+                    "X-radiation",
+                    "roentgen ray"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "electromagnetic radiation",
+                        "electromagnetic wave",
+                        "nonparticulate radiation",
+                        "ionizing radiation"
+                    ]
+                }
+            },
+            {
+                "synset_offset": "04107714",
+                "sense_number": 2,
+                "part_of_speech": "noun",
+                "def": "a radiogram made by exposing photographic film to X rays; used in medical diagnosis",
+                "synonyms": [
+                    "roentgenogram",
+                    "X-ray",
+                    "X-ray picture",
+                    "X-ray photograph"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "radiogram",
+                        "radiograph",
+                        "shadowgraph",
+                        "skiagraph",
+                        "skiagram"
+                    ],
+                    "hyponym": [
+                        "angiocardiogram",
+                        "angiogram",
+                        "arteriogram",
+                        "arthrogram",
+                        "encephalogram",
+                        "pneumoencephalogram",
+                        "hysterosalpingogram",
+                        "mammogram",
+                        "myelogram",
+                        "pyelogram",
+                        "venogram",
+                        "phlebogram"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xanax": {
+        "word": "Xanax",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02702202",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "an antianxiety agent (trade name Xanax) of the benzodiazepine class",
+                "synonyms": [
+                    "alprazolam"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "benzodiazepine"
+                    ],
+                    "domain_of_synset-USAGE": [
+                        "trade name"
+                    ]
+                }
+            }
+        ]
+    },
+    "xanthate": {
+        "word": "xanthate",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "15137395",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a salt or ester of xanthic acid",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "salt"
+                    ],
+                    "hyponym": [
+                        "cellulose xanthate",
+                        "viscose"
+                    ]
+                }
+            }
+        ]
+    },
+    "xanthelasma": {
+        "word": "xanthelasma",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14256637",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "xanthoma of the eyelids; occurs chiefly in the elderly",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "xanthoma"
+                    ]
+                }
+            }
+        ]
+    },
+    "xanthemia": {
+        "word": "xanthemia",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14590187",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "excess carotene in the blood stream; can cause the skin to turn a pale yellow or red color",
+                "synonyms": [
+                    "carotenemia"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "pathology"
+                    ]
+                }
+            }
+        ]
+    },
+    "xanthic acid": {
+        "word": "xanthic acid",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "15137499",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "any of a class of unstable organic acids containing sulphur",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "acid"
+                    ]
+                }
+            }
+        ]
+    },
+    "xanthine": {
+        "word": "xanthine",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "15137617",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "crystalline oxidation product of the metabolism of nucleoproteins; precursor of uric acid; found in many organs and in urine",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "organic compound"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xanthium": {
+        "word": "Xanthium",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12053408",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "coarse herbs having small heads of greenish flowers followed by burrs with hooked bristles",
+                "synonyms": [
+                    "genus Xanthium"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "asterid dicot genus"
+                    ],
+                    "member_holonym": [
+                        "Compositae",
+                        "family Compositae",
+                        "Asteraceae",
+                        "family Asteraceae",
+                        "aster family"
+                    ],
+                    "member_meronym": [
+                        "cocklebur",
+                        "cockle-bur",
+                        "cockleburr",
+                        "cockle-burr"
+                    ]
+                }
+            }
+        ]
+    },
+    "xanthoma": {
+        "word": "xanthoma",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14256749",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a skin problem marked by the development (on the eyelids and neck and back) of irregular yellow nodules; sometimes attributable to disturbances of cholesterol metabolism",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "skin disease",
+                        "disease of the skin",
+                        "skin disorder"
+                    ],
+                    "hyponym": [
+                        "xanthelasma",
+                        "xanthoma disseminatum",
+                        "xanthomatosis",
+                        "xanthoma multiplex",
+                        "cholesterosis cutis",
+                        "lipid granulomatosis",
+                        "lipoid granulomatosis"
+                    ]
+                }
+            }
+        ]
+    },
+    "xanthoma disseminatum": {
+        "word": "xanthoma disseminatum",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14257027",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "rare chronic xanthoma of adults in which orange or brownish papules develop on many surfaces of the body",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "xanthoma"
+                    ]
+                }
+            }
+        ]
+    },
+    "xanthoma multiplex": {
+        "word": "xanthoma multiplex",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14257199",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "widespread xanthomas (especially on elbows and knees); often associated with a disorder of lipid metabolism",
+                "synonyms": [
+                    "xanthomatosis",
+                    "cholesterosis cutis",
+                    "lipid granulomatosis",
+                    "lipoid granulomatosis"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "xanthoma"
+                    ]
+                }
+            }
+        ]
+    },
+    "xanthomatosis": {
+        "word": "xanthomatosis",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14257199",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "widespread xanthomas (especially on elbows and knees); often associated with a disorder of lipid metabolism",
+                "synonyms": [
+                    "xanthoma multiplex",
+                    "cholesterosis cutis",
+                    "lipid granulomatosis",
+                    "lipoid granulomatosis"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "xanthoma"
+                    ]
+                }
+            }
+        ]
+    },
+    "xanthomonad": {
+        "word": "xanthomonad",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01364324",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "bacteria producing yellow non-water-soluble pigments; some pathogenic for plants",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "eubacteria",
+                        "eubacterium",
+                        "true bacteria"
+                    ],
+                    "member_holonym": [
+                        "Xanthomonas",
+                        "genus Xanthomonas"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xanthomonas": {
+        "word": "Xanthomonas",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01364106",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a genus of bacteria similar to Pseudomonas but producing a yellow pigment that is not soluble in water",
+                "synonyms": [
+                    "genus Xanthomonas"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "bacteria genus"
+                    ],
+                    "member_holonym": [
+                        "Pseudomonodaceae",
+                        "family Pseudomonodaceae"
+                    ],
+                    "member_meronym": [
+                        "xanthomonad"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xanthophyceae": {
+        "word": "Xanthophyceae",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01403413",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "yellow-green algae",
+                "synonyms": [
+                    "class Xanthophyceae"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "class"
+                    ],
+                    "member_holonym": [
+                        "Chrysophyta",
+                        "division Chrysophyta"
+                    ]
+                }
+            }
+        ]
+    },
+    "xanthophyl": {
+        "word": "xanthophyl",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14745796",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "yellow carotenoid pigments in plants and animal fats and egg yolks",
+                "synonyms": [
+                    "xanthophyll",
+                    "lutein"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "carotenoid"
+                    ]
+                }
+            }
+        ]
+    },
+    "xanthophyll": {
+        "word": "xanthophyll",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14745796",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "yellow carotenoid pigments in plants and animal fats and egg yolks",
+                "synonyms": [
+                    "xanthophyl",
+                    "lutein"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "carotenoid"
+                    ]
+                }
+            }
+        ]
+    },
+    "xanthopsia": {
+        "word": "xanthopsia",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14597737",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "visual defect in which objects appear to have a yellowish hue; sometimes occurs in cases of jaundice",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "visual impairment",
+                        "visual defect",
+                        "vision defect",
+                        "visual disorder"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xanthorrhoeaceae": {
+        "word": "Xanthorrhoeaceae",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12486301",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "one of many subfamilies into which some classification systems subdivide the Liliaceae but not widely accepted",
+                "synonyms": [
+                    "family Xanthorrhoeaceae",
+                    "grass tree family"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "liliid monocot family"
+                    ],
+                    "member_holonym": [
+                        "Liliaceae",
+                        "family Liliaceae",
+                        "lily family"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xanthorroea": {
+        "word": "Xanthorroea",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12486539",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "grass trees; sometimes placed in family Xanthorrhoeaceae",
+                "synonyms": [
+                    "genus Xanthorroea"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "liliid monocot genus"
+                    ],
+                    "member_holonym": [
+                        "Liliaceae",
+                        "family Liliaceae",
+                        "lily family"
+                    ],
+                    "member_meronym": [
+                        "grass tree",
+                        "Australian grass tree"
+                    ]
+                }
+            }
+        ]
+    },
+    "xanthosis": {
+        "word": "xanthosis",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14257456",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "an abnormal yellow discoloration of the skin",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "skin disease",
+                        "disease of the skin",
+                        "skin disorder"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xanthosoma": {
+        "word": "Xanthosoma",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "11813721",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "tropical American tuberous perennials",
+                "synonyms": [
+                    "genus Xanthosoma"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "monocot genus",
+                        "liliopsid genus"
+                    ],
+                    "member_holonym": [
+                        "Araceae",
+                        "family Araceae",
+                        "arum family"
+                    ],
+                    "member_meronym": [
+                        "yautia",
+                        "tannia",
+                        "spoonflower",
+                        "malanga",
+                        "Xanthosoma sagittifolium",
+                        "Xanthosoma atrovirens"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xanthosoma atrovirens": {
+        "word": "Xanthosoma atrovirens",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "11813872",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "tropical American aroid having edible tubers that are cooked and eaten like yams or potatoes",
+                "synonyms": [
+                    "yautia",
+                    "tannia",
+                    "spoonflower",
+                    "malanga",
+                    "Xanthosoma sagittifolium"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "arum",
+                        "aroid"
+                    ],
+                    "member_holonym": [
+                        "Xanthosoma",
+                        "genus Xanthosoma"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xanthosoma sagittifolium": {
+        "word": "Xanthosoma sagittifolium",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "11813872",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "tropical American aroid having edible tubers that are cooked and eaten like yams or potatoes",
+                "synonyms": [
+                    "yautia",
+                    "tannia",
+                    "spoonflower",
+                    "malanga",
+                    "Xanthosoma atrovirens"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "arum",
+                        "aroid"
+                    ],
+                    "member_holonym": [
+                        "Xanthosoma",
+                        "genus Xanthosoma"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xantusiidae": {
+        "word": "Xantusiidae",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01686069",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "night lizards",
+                "synonyms": [
+                    "family Xantusiidae"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "reptile family"
+                    ],
+                    "member_holonym": [
+                        "Sauria",
+                        "suborder Sauria",
+                        "Lacertilia",
+                        "suborder Lacertilia"
+                    ],
+                    "member_meronym": [
+                        "night lizard"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xavier": {
+        "word": "Xavier",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "11421005",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "Spanish missionary and Jesuit who establish missionaries in Japan and Ceylon and the East Indies (1506-1552)",
+                "synonyms": [
+                    "Saint Francis Xavier"
+                ],
+                "wordnet_ptrs": {
+                    "instance_hypernym": [
+                        "missionary"
+                    ]
+                }
+            }
+        ]
+    },
+    "XC": {
+        "word": "XC",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13772437",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the product of ten and nine",
+                "synonyms": [
+                    "ninety",
+                    "90"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xe": {
+        "word": "Xe",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14685453",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a colorless odorless inert gaseous element occurring in the earth's atmosphere in trace amounts",
+                "synonyms": [
+                    "xenon",
+                    "atomic number 54"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "chemical element",
+                        "element",
+                        "noble gas",
+                        "inert gas",
+                        "argonon"
+                    ],
+                    "substance_holonym": [
+                        "air"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xenarthra": {
+        "word": "Xenarthra",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02456521",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "armadillos; American anteaters; sloths",
+                "synonyms": [
+                    "suborder Xenarthra"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "animal order"
+                    ],
+                    "member_holonym": [
+                        "Edentata",
+                        "order Edentata"
+                    ],
+                    "member_meronym": [
+                        "Dasypodidae",
+                        "family Dasypodidae",
+                        "Bradypodidae",
+                        "family Bradypodidae",
+                        "Megalonychidae",
+                        "family Megalonychidae",
+                        "Megatheriidae",
+                        "family Megatheriidae",
+                        "Myrmecophagidae",
+                        "family Myrmecophagidae"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xenicidae": {
+        "word": "Xenicidae",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01590813",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "alternative names for the family comprising the New Zealand wrens",
+                "synonyms": [
+                    "family Xenicidae",
+                    "Acanthisittidae",
+                    "family Acanthisittidae"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "bird family"
+                    ],
+                    "member_holonym": [
+                        "Oscines",
+                        "suborder Oscines",
+                        "Passeres",
+                        "suborder Passeres"
+                    ],
+                    "member_meronym": [
+                        "New Zealand wren",
+                        "Xenicus",
+                        "genus Xenicus",
+                        "Acanthisitta",
+                        "genus Acanthisitta"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xenicus": {
+        "word": "Xenicus",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01591230",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "type genus for the Xenicidae",
+                "synonyms": [
+                    "genus Xenicus"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "bird genus"
+                    ],
+                    "member_holonym": [
+                        "Xenicidae",
+                        "family Xenicidae",
+                        "Acanthisittidae",
+                        "family Acanthisittidae"
+                    ],
+                    "member_meronym": [
+                        "rock wren",
+                        "Xenicus gilviventris"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xenicus gilviventris": {
+        "word": "Xenicus gilviventris",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01591366",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "short-tailed bird resembling a wren",
+                "synonyms": [
+                    "rock wren"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "New Zealand wren"
+                    ],
+                    "member_holonym": [
+                        "Xenicus",
+                        "genus Xenicus"
+                    ]
+                }
+            }
+        ]
+    },
+    "xenogenesis": {
+        "word": "xenogenesis",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "11444308",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the alternation of two or more different forms in the life cycle of a plant or animal",
+                "synonyms": [
+                    "alternation of generations",
+                    "heterogenesis"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "organic phenomenon"
+                    ],
+                    "hyponym": [
+                        "metagenesis",
+                        "digenesis"
+                    ]
+                }
+            }
+        ]
+    },
+    "xenograft": {
+        "word": "xenograft",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "05591274",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "tissue from an animal of one species used as a temporary graft (as in cases of severe burns) on an individual of another species",
+                "synonyms": [
+                    "heterograft"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "graft",
+                        "transplant"
+                    ]
+                }
+            }
+        ]
+    },
+    "xenolith": {
+        "word": "xenolith",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "09504250",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "(geology) a piece of rock of different origin from the igneous rock in which it is embedded",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "rock",
+                        "stone"
+                    ],
+                    "domain_of_synset-TOPIC": [
+                        "geology"
+                    ]
+                }
+            }
+        ]
+    },
+    "xenon": {
+        "word": "xenon",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14685453",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a colorless odorless inert gaseous element occurring in the earth's atmosphere in trace amounts",
+                "synonyms": [
+                    "Xe",
+                    "atomic number 54"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "chemical element",
+                        "element",
+                        "noble gas",
+                        "inert gas",
+                        "argonon"
+                    ],
+                    "substance_holonym": [
+                        "air"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xenophanes": {
+        "word": "Xenophanes",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "11421190",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "Greek philosopher (560-478 BC)",
+                "wordnet_ptrs": {
+                    "instance_hypernym": [
+                        "philosopher"
+                    ]
+                }
+            }
+        ]
+    },
+    "xenophobia": {
+        "word": "xenophobia",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14409427",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a fear of foreigners or strangers",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "social phobia"
+                    ],
+                    "derivationally_related_form": [
+                        "xenophobic"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xenophon": {
+        "word": "Xenophon",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "11421278",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "Greek general and historian; student of Socrates (430-355 BC)",
+                "wordnet_ptrs": {
+                    "instance_hypernym": [
+                        "general",
+                        "full general",
+                        "historian",
+                        "historiographer"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xenopodidae": {
+        "word": "Xenopodidae",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01656886",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "in some classifications the family of the genus Xenopus which is otherwise included in the family Pipidae",
+                "synonyms": [
+                    "family Xenopodidae"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "amphibian family"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xenopus": {
+        "word": "Xenopus",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01657070",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "an African clawed frog; in some classifications made the type genus of a separate family Xenopodidae",
+                "synonyms": [
+                    "genus Xenopus"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "amphibian genus"
+                    ],
+                    "member_holonym": [
+                        "Pipidae",
+                        "family Pipidae"
+                    ],
+                    "member_meronym": [
+                        "African clawed frog",
+                        "Xenopus laevis"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xenopus laevis": {
+        "word": "Xenopus laevis",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01657278",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a tongueless frog native to Africa; established in the United States as result of release of laboratory and aquarium animals",
+                "synonyms": [
+                    "African clawed frog"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "tongueless frog"
+                    ],
+                    "member_holonym": [
+                        "Xenopus",
+                        "genus Xenopus"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xenorhyncus": {
+        "word": "Xenorhyncus",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02006997",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "East Indian and Australian storks",
+                "synonyms": [
+                    "genus Xenorhyncus"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "bird genus"
+                    ],
+                    "member_holonym": [
+                        "Ciconiidae",
+                        "family Ciconiidae"
+                    ],
+                    "member_meronym": [
+                        "policeman bird",
+                        "black-necked stork",
+                        "jabiru",
+                        "Xenorhyncus asiaticus"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xenorhyncus asiaticus": {
+        "word": "Xenorhyncus asiaticus",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02007146",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "large mostly white Australian stork",
+                "synonyms": [
+                    "policeman bird",
+                    "black-necked stork",
+                    "jabiru"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "stork"
+                    ],
+                    "member_holonym": [
+                        "Xenorhyncus",
+                        "genus Xenorhyncus"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xenosauridae": {
+        "word": "Xenosauridae",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01693344",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "monotypic family of Mexican lizards",
+                "synonyms": [
+                    "family Xenosauridae"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "reptile family"
+                    ],
+                    "member_holonym": [
+                        "Sauria",
+                        "suborder Sauria",
+                        "Lacertilia",
+                        "suborder Lacertilia"
+                    ],
+                    "member_meronym": [
+                        "Xenosaurus",
+                        "genus Xenosaurus"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xenosaurus": {
+        "word": "Xenosaurus",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01693498",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "type and sole genus of Xenosauridae: slender-bodied Mexican lizards having the upper surface covered with tiny granules and tubercles",
+                "synonyms": [
+                    "genus Xenosaurus"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "reptile genus"
+                    ],
+                    "member_holonym": [
+                        "Xenosauridae",
+                        "family Xenosauridae"
+                    ]
+                }
+            }
+        ]
+    },
+    "xenotime": {
+        "word": "xenotime",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "15130522",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a brown-to-yellow mineral that is a phosphate of yttrium in crystalline form",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "mineral"
+                    ],
+                    "substance_meronym": [
+                        "thulium",
+                        "Tm",
+                        "atomic number 69",
+                        "ytterbium",
+                        "Yb",
+                        "atomic number 70",
+                        "yttrium",
+                        "Y",
+                        "atomic number 39"
+                    ]
+                }
+            }
+        ]
+    },
+    "xenotransplant": {
+        "word": "xenotransplant",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01270764",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a surgical procedure in which tissue or whole organs are transfered from one species to another species",
+                "synonyms": [
+                    "xenotransplantation"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "transplant",
+                        "transplantation",
+                        "organ transplant"
+                    ]
+                }
+            }
+        ]
+    },
+    "xenotransplantation": {
+        "word": "xenotransplantation",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01270764",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a surgical procedure in which tissue or whole organs are transfered from one species to another species",
+                "synonyms": [
+                    "xenotransplant"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "transplant",
+                        "transplantation",
+                        "organ transplant"
+                    ]
+                }
+            }
+        ]
+    },
+    "xeranthemum": {
+        "word": "xeranthemum",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12053973",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "any plant of the genus Xeranthemum native to southern Europe having chaffy or silvery flower heads with purplish tubular flowers",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "flower"
+                    ],
+                    "member_holonym": [
+                        "genus Xeranthemum"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xeranthemum annuum": {
+        "word": "Xeranthemum annuum",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12054178",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "mostly widely cultivated species of everlasting flowers having usually purple flowers; southern Europe to Iran; naturalized elsewhere",
+                "synonyms": [
+                    "immortelle"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "everlasting",
+                        "everlasting flower"
+                    ],
+                    "member_holonym": [
+                        "genus Xeranthemum"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xerobates": {
+        "word": "Xerobates",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01673953",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "possible new genus for desert and Texas tortoises based on recent research",
+                "synonyms": [
+                    "genus Xerobates"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "reptile genus"
+                    ],
+                    "member_holonym": [
+                        "Testudinidae",
+                        "family Testudinidae"
+                    ]
+                }
+            }
+        ]
+    },
+    "xeroderma": {
+        "word": "xeroderma",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14561165",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin",
+                "synonyms": [
+                    "xerodermia"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "ichthyosis"
+                    ],
+                    "hyponym": [
+                        "xeroderma pigmentosum"
+                    ]
+                }
+            }
+        ]
+    },
+    "xeroderma pigmentosum": {
+        "word": "xeroderma pigmentosum",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14561337",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a rare genetic condition characterized by an eruption of exposed skin occurring in childhood and photosensitivity with severe sunburn; inherited as a recessive autosomal trait in which DNA repair processes are defective so they are more likely to chromosome breaks and cancers when exposed to ultraviolet light",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "xeroderma",
+                        "xerodermia"
+                    ]
+                }
+            }
+        ]
+    },
+    "xerodermia": {
+        "word": "xerodermia",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14561165",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin",
+                "synonyms": [
+                    "xeroderma"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "ichthyosis"
+                    ],
+                    "hyponym": [
+                        "xeroderma pigmentosum"
+                    ]
+                }
+            }
+        ]
+    },
+    "xerographic copier": {
+        "word": "xerographic copier",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "04616281",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a duplicator (trade mark Xerox) that copies graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder",
+                "synonyms": [
+                    "Xerox",
+                    "Xerox machine"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "duplicator",
+                        "copier"
+                    ]
+                }
+            }
+        ]
+    },
+    "xerographic printer": {
+        "word": "xerographic printer",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "04616167",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a page printer that uses the xerographic process",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "page printer",
+                        "page-at-a-time printer"
+                    ]
+                }
+            }
+        ]
+    },
+    "xerography": {
+        "word": "xerography",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "00906602",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "forming an image by the action of light on a specially coated charged plate; the latent image is developed with powders that adhere only to electrically charged areas",
+                "example": [
+                    "edge enhancement is intrinsic in xerography"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "photography",
+                        "picture taking"
+                    ],
+                    "derivationally_related_form": [
+                        "xerographic"
+                    ]
+                }
+            }
+        ]
+    },
+    "xeroma": {
+        "word": "xeroma",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14561715",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "abnormal dryness of the conjunctiva and cornea of the eyes; may be due to a systemic deficiency of vitamin A",
+                "synonyms": [
+                    "xerophthalmia",
+                    "xerophthalmus",
+                    "conjunctivitis arida"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "dryness",
+                        "waterlessness",
+                        "xerotes"
+                    ]
+                }
+            }
+        ]
+    },
+    "xerophile": {
+        "word": "xerophile",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13141863",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "plant adapted for life with a limited supply of water; compare hydrophyte and mesophyte",
+                "synonyms": [
+                    "desert plant",
+                    "xerophyte",
+                    "xerophytic plant",
+                    "xerophilous plant"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "vascular plant",
+                        "tracheophyte"
+                    ],
+                    "hyponym": [
+                        "agave",
+                        "century plant",
+                        "American aloe"
+                    ]
+                }
+            }
+        ]
+    },
+    "xerophilous plant": {
+        "word": "xerophilous plant",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13141863",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "plant adapted for life with a limited supply of water; compare hydrophyte and mesophyte",
+                "synonyms": [
+                    "desert plant",
+                    "xerophyte",
+                    "xerophytic plant",
+                    "xerophile"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "vascular plant",
+                        "tracheophyte"
+                    ],
+                    "hyponym": [
+                        "agave",
+                        "century plant",
+                        "American aloe"
+                    ]
+                }
+            }
+        ]
+    },
+    "xerophthalmia": {
+        "word": "xerophthalmia",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14561715",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "abnormal dryness of the conjunctiva and cornea of the eyes; may be due to a systemic deficiency of vitamin A",
+                "synonyms": [
+                    "xerophthalmus",
+                    "xeroma",
+                    "conjunctivitis arida"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "dryness",
+                        "waterlessness",
+                        "xerotes"
+                    ]
+                }
+            }
+        ]
+    },
+    "xerophthalmus": {
+        "word": "xerophthalmus",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14561715",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "abnormal dryness of the conjunctiva and cornea of the eyes; may be due to a systemic deficiency of vitamin A",
+                "synonyms": [
+                    "xerophthalmia",
+                    "xeroma",
+                    "conjunctivitis arida"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "dryness",
+                        "waterlessness",
+                        "xerotes"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xerophyllum": {
+        "word": "Xerophyllum",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12485826",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "small genus of North American herbs having grasslike basal leaves: squaw grass; sometimes placed in family Melanthiaceae",
+                "synonyms": [
+                    "genus Xerophyllum"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "liliid monocot genus"
+                    ],
+                    "member_holonym": [
+                        "Liliaceae",
+                        "family Liliaceae",
+                        "lily family"
+                    ],
+                    "member_meronym": [
+                        "squaw grass",
+                        "bear grass",
+                        "Xerophyllum tenax"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xerophyllum tenax": {
+        "word": "Xerophyllum tenax",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12486062",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "plant of western North America having woody rhizomes and tufts of stiff grasslike basal leaves and spikes of creamy white flowers",
+                "synonyms": [
+                    "squaw grass",
+                    "bear grass"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "liliaceous plant"
+                    ],
+                    "member_holonym": [
+                        "Xerophyllum",
+                        "genus Xerophyllum"
+                    ]
+                }
+            }
+        ]
+    },
+    "xerophyte": {
+        "word": "xerophyte",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13141863",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "plant adapted for life with a limited supply of water; compare hydrophyte and mesophyte",
+                "synonyms": [
+                    "desert plant",
+                    "xerophytic plant",
+                    "xerophile",
+                    "xerophilous plant"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "vascular plant",
+                        "tracheophyte"
+                    ],
+                    "derivationally_related_form": [
+                        "xerophytic"
+                    ],
+                    "hyponym": [
+                        "agave",
+                        "century plant",
+                        "American aloe"
+                    ]
+                }
+            }
+        ]
+    },
+    "xerophytic plant": {
+        "word": "xerophytic plant",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13141863",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "plant adapted for life with a limited supply of water; compare hydrophyte and mesophyte",
+                "synonyms": [
+                    "desert plant",
+                    "xerophyte",
+                    "xerophile",
+                    "xerophilous plant"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "vascular plant",
+                        "tracheophyte"
+                    ],
+                    "hyponym": [
+                        "agave",
+                        "century plant",
+                        "American aloe"
+                    ]
+                }
+            }
+        ]
+    },
+    "xeroradiography": {
+        "word": "xeroradiography",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "00906890",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "radiography using X-rays and xerographic (rather than roentgenographic) techniques",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "radiography"
+                    ]
+                }
+            }
+        ]
+    },
+    "xerostomia": {
+        "word": "xerostomia",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14561931",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "abnormal dryness of the mouth resulting from decreased secretion of saliva",
+                "synonyms": [
+                    "dry mouth"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "dryness",
+                        "waterlessness",
+                        "xerotes"
+                    ]
+                }
+            }
+        ]
+    },
+    "xerotes": {
+        "word": "xerotes",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14560040",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the condition of not containing or being covered by a liquid (especially water)",
+                "synonyms": [
+                    "dryness",
+                    "waterlessness"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "condition",
+                        "status"
+                    ],
+                    "hyponym": [
+                        "dehydration",
+                        "desiccation",
+                        "drought",
+                        "drouth",
+                        "aridity",
+                        "aridness",
+                        "thirstiness",
+                        "sereness",
+                        "xerophthalmia",
+                        "xerophthalmus",
+                        "xeroma",
+                        "conjunctivitis arida",
+                        "xerostomia",
+                        "dry mouth"
+                    ]
+                }
+            }
+        ]
+    },
+    "xerox": {
+        "word": "xerox",
+        "pos_order": [
+            "noun",
+            "verb"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "04616593",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a copy made by a xerographic copier",
+                "synonyms": [
+                    "xerox copy"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "copy"
+                    ],
+                    "derivationally_related_form": [
+                        "xerox"
+                    ]
+                }
+            },
+            {
+                "synset_offset": "01740180",
+                "sense_number": 1,
+                "part_of_speech": "verb",
+                "def": "reproduce by xerography",
+                "synonyms": [
+                    "photocopy",
+                    "run off"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "reproduce"
+                    ],
+                    "derivationally_related_form": [
+                        "xerox",
+                        "Xerox"
+                    ],
+                    "hyponym": [
+                        "microcopy",
+                        "photostat"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xerox": {
+        "word": "Xerox",
+        "pos_order": [
+            "noun",
+            "verb"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "04616281",
+                "sense_number": 2,
+                "part_of_speech": "noun",
+                "def": "a duplicator (trade mark Xerox) that copies graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder",
+                "synonyms": [
+                    "xerographic copier",
+                    "Xerox machine"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "duplicator",
+                        "copier"
+                    ],
+                    "derivationally_related_form": [
+                        "xerox"
+                    ]
+                }
+            }
+        ]
+    },
+    "xerox copy": {
+        "word": "xerox copy",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "04616593",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a copy made by a xerographic copier",
+                "synonyms": [
+                    "xerox"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "copy"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xerox machine": {
+        "word": "Xerox machine",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "04616281",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a duplicator (trade mark Xerox) that copies graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder",
+                "synonyms": [
+                    "Xerox",
+                    "xerographic copier"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "duplicator",
+                        "copier"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xerxes I": {
+        "word": "Xerxes I",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "11421414",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "king of Persia who led a vast army against Greece and won the battle of Thermopylae but was eventually defeated (519-465 BC)",
+                "synonyms": [
+                    "Xerxes the Great"
+                ],
+                "wordnet_ptrs": {
+                    "instance_hypernym": [
+                        "king",
+                        "male monarch",
+                        "Rex"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xerxes the Great": {
+        "word": "Xerxes the Great",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "11421414",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "king of Persia who led a vast army against Greece and won the battle of Thermopylae but was eventually defeated (519-465 BC)",
+                "synonyms": [
+                    "Xerxes I"
+                ],
+                "wordnet_ptrs": {
+                    "instance_hypernym": [
+                        "king",
+                        "male monarch",
+                        "Rex"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xestobium rufovillosum": {
+        "word": "Xestobium rufovillosum",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02180427",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "bores through wood making a ticking sound popularly thought to presage death",
+                "synonyms": [
+                    "deathwatch beetle",
+                    "deathwatch"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "beetle"
+                    ],
+                    "member_holonym": [
+                        "Anobiidae",
+                        "family Anobiidae"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xhosa": {
+        "word": "Xhosa",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "09770827",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a member of the Negroid people of southern South Africa",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "African"
+                    ],
+                    "member_holonym": [
+                        "South Africa",
+                        "Republic of South Africa"
+                    ]
+                }
+            },
+            {
+                "synset_offset": "08506295",
+                "sense_number": 2,
+                "part_of_speech": "noun",
+                "def": "a community of Negroid people in southern South Africa",
+                "wordnet_ptrs": {
+                    "instance_hypernym": [
+                        "community"
+                    ]
+                }
+            },
+            {
+                "synset_offset": "07007360",
+                "sense_number": 3,
+                "part_of_speech": "noun",
+                "def": "a Bantu language closely related to Zulu",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "Nguni"
+                    ]
+                }
+            }
+        ]
+    },
+    "XI": {
+        "word": "XI",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13768812",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of ten and one",
+                "synonyms": [
+                    "eleven",
+                    "11"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "xi": {
+        "word": "xi",
+        "pos_order": [
+            "adjective",
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02195018",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being one more than ten",
+                "synonyms": [
+                    "eleven",
+                    "11"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            },
+            {
+                "synset_offset": "06848575",
+                "sense_number": 2,
+                "part_of_speech": "noun",
+                "def": "the 14th letter of the Greek alphabet",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "letter",
+                        "letter of the alphabet",
+                        "alphabetic character"
+                    ],
+                    "member_holonym": [
+                        "Greek alphabet"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xian": {
+        "word": "Xian",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "08747285",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a city of central China; capital of ancient Chinese empire 221-206 BC",
+                "synonyms": [
+                    "Sian",
+                    "Singan",
+                    "Changan",
+                    "Hsian"
+                ],
+                "wordnet_ptrs": {
+                    "instance_hypernym": [
+                        "city",
+                        "metropolis",
+                        "urban center"
+                    ],
+                    "part_holonym": [
+                        "China",
+                        "People's Republic of China",
+                        "mainland China",
+                        "Communist China",
+                        "Red China",
+                        "PRC",
+                        "Cathay"
+                    ]
+                }
+            }
+        ]
+    },
+    "XII": {
+        "word": "XII",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13768925",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of eleven and one",
+                "synonyms": [
+                    "twelve",
+                    "12",
+                    "dozen"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ],
+                    "hyponym": [
+                        "boxcars"
+                    ]
+                }
+            }
+        ]
+    },
+    "XIII": {
+        "word": "XIII",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13769339",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of twelve and one",
+                "synonyms": [
+                    "thirteen",
+                    "13",
+                    "baker's dozen",
+                    "long dozen"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "Ximenesia encelioides": {
+        "word": "Ximenesia encelioides",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12051608",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "coarse greyish-green annual yellow-flowered herb; southwestern United States to Mexico",
+                "synonyms": [
+                    "cowpen daisy",
+                    "golden crownbeard",
+                    "golden crown beard",
+                    "butter daisy",
+                    "Verbesina encelioides"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "crownbeard",
+                        "crown-beard",
+                        "crown beard"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xinjiang": {
+        "word": "Xinjiang",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "08747459",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "an autonomous province in far northwestern China on the border with Mongolia and Kazakhstan; the largest province in the People's Republic of China and the homeland of the Uighur people",
+                "synonyms": [
+                    "Sinkiang",
+                    "Xinjiang Uighur Autonomous Region"
+                ],
+                "wordnet_ptrs": {
+                    "instance_hypernym": [
+                        "state",
+                        "province"
+                    ],
+                    "part_holonym": [
+                        "China",
+                        "People's Republic of China",
+                        "mainland China",
+                        "Communist China",
+                        "Red China",
+                        "PRC",
+                        "Cathay"
+                    ],
+                    "member_of_this_domain-REGION": [
+                        "East Turkistan Islamic Movement",
+                        "East Turkestan Islamic Movement"
+                    ],
+                    "member_meronym": [
+                        "Uighur",
+                        "Uigur",
+                        "Uygur"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xinjiang Uighur Autonomous Region": {
+        "word": "Xinjiang Uighur Autonomous Region",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "08747459",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "an autonomous province in far northwestern China on the border with Mongolia and Kazakhstan; the largest province in the People's Republic of China and the homeland of the Uighur people",
+                "synonyms": [
+                    "Xinjiang",
+                    "Sinkiang"
+                ],
+                "wordnet_ptrs": {
+                    "instance_hypernym": [
+                        "state",
+                        "province"
+                    ],
+                    "part_holonym": [
+                        "China",
+                        "People's Republic of China",
+                        "mainland China",
+                        "Communist China",
+                        "Red China",
+                        "PRC",
+                        "Cathay"
+                    ],
+                    "member_of_this_domain-REGION": [
+                        "East Turkistan Islamic Movement",
+                        "East Turkestan Islamic Movement"
+                    ],
+                    "member_meronym": [
+                        "Uighur",
+                        "Uigur",
+                        "Uygur"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xiphias": {
+        "word": "Xiphias",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02632211",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "type genus of the Xiphiidae",
+                "synonyms": [
+                    "genus Xiphias"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "fish genus"
+                    ],
+                    "member_holonym": [
+                        "Xiphiidae",
+                        "family Xiphiidae"
+                    ],
+                    "member_meronym": [
+                        "swordfish",
+                        "Xiphias gladius"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xiphias gladius": {
+        "word": "Xiphias gladius",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02632346",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "large toothless marine food fish with a long swordlike upper jaw; not completely cold-blooded i.e. they are able to warm their brains and eyes: worldwide in warm waters but feed on cold ocean floor coming to surface at night",
+                "synonyms": [
+                    "swordfish"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "scombroid",
+                        "scombroid fish"
+                    ],
+                    "member_holonym": [
+                        "Xiphias",
+                        "genus Xiphias"
+                    ],
+                    "part_meronym": [
+                        "swordfish"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xiphiidae": {
+        "word": "Xiphiidae",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02632065",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "comprising the common swordfishes",
+                "synonyms": [
+                    "family Xiphiidae"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "fish family"
+                    ],
+                    "member_holonym": [
+                        "Scombroidea",
+                        "suborder Scombroidea"
+                    ],
+                    "member_meronym": [
+                        "Xiphias",
+                        "genus Xiphias"
+                    ]
+                }
+            }
+        ]
+    },
+    "xiphium iris": {
+        "word": "xiphium iris",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12436100",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "bulbous iris of western Mediterranean region having usually violet-purple flowers",
+                "synonyms": [
+                    "Spanish iris",
+                    "Iris xiphium"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "beardless iris"
+                    ]
+                }
+            }
+        ]
+    },
+    "xiphoid process": {
+        "word": "xiphoid process",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "05289190",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "smallest of the three parts of the breastbone; articulates with the corpus sternum and the seventh rib",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "bone",
+                        "os"
+                    ],
+                    "part_holonym": [
+                        "sternum",
+                        "breastbone"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xiphosura": {
+        "word": "Xiphosura",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01790042",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "horseshoe crabs and extinct forms",
+                "synonyms": [
+                    "order Xiphosura"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "animal order"
+                    ],
+                    "member_holonym": [
+                        "Merostomata",
+                        "class Merostomata"
+                    ],
+                    "member_meronym": [
+                        "Limulidae",
+                        "family Limulidae"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xiphosurus polyphemus": {
+        "word": "Xiphosurus polyphemus",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01790476",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "large marine arthropod of the Atlantic coast of North America having a domed carapace that is shaped like a horseshoe and a stiff pointed tail; a living fossil related to the wood louse",
+                "synonyms": [
+                    "horseshoe crab",
+                    "king crab",
+                    "Limulus polyphemus"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "arthropod"
+                    ],
+                    "member_holonym": [
+                        "Limulus",
+                        "genus Limulus"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xishuangbanna Dai": {
+        "word": "Xishuangbanna Dai",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "06948091",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a branch of the Tai languages",
+                "synonyms": [
+                    "Tai Lue"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "Tai"
+                    ]
+                }
+            }
+        ]
+    },
+    "XIV": {
+        "word": "XIV",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13769488",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of thirteen and one",
+                "synonyms": [
+                    "fourteen",
+                    "14"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "XIX": {
+        "word": "XIX",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13770129",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of eighteen and one",
+                "synonyms": [
+                    "nineteen",
+                    "19"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xizang": {
+        "word": "Xizang",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "08926725",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "an autonomous region of the Peoples Republic of China; located in the Himalayas",
+                "synonyms": [
+                    "Tibet",
+                    "Thibet",
+                    "Sitsang"
+                ],
+                "wordnet_ptrs": {
+                    "instance_hypernym": [
+                        "Asian country",
+                        "Asian nation"
+                    ],
+                    "part_holonym": [
+                        "Asia"
+                    ],
+                    "member_of_this_domain-REGION": [
+                        "Lamaism",
+                        "Tibetan Buddhism",
+                        "Sino-Tibetan",
+                        "Sino-Tibetan language"
+                    ],
+                    "part_meronym": [
+                        "Lhasa",
+                        "Lassa",
+                        "capital of Tibet",
+                        "Forbidden City",
+                        "Changtzu",
+                        "Everest",
+                        "Mount Everest",
+                        "Mt. Everest",
+                        "Gosainthan",
+                        "Himalayas",
+                        "Himalaya Mountains",
+                        "Himalaya",
+                        "Kanchenjunga",
+                        "Mount Kanchenjunga",
+                        "Kanchanjanga",
+                        "Kinchinjunga",
+                        "Lhotse",
+                        "Makalu",
+                        "Nuptse"
+                    ],
+                    "member_meronym": [
+                        "Sherpa"
+                    ]
+                }
+            }
+        ]
+    },
+    "XL": {
+        "word": "XL",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13771667",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the product of ten and four",
+                "synonyms": [
+                    "forty",
+                    "40"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xmas": {
+        "word": "Xmas",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "15221021",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a Christian holiday celebrating the birth of Christ; a quarter day in England, Wales, and Ireland",
+                "synonyms": [
+                    "Christmas",
+                    "Christmas Day",
+                    "Dec 25"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "legal holiday",
+                        "national holiday",
+                        "public holiday",
+                        "holy day of obligation",
+                        "quarter day",
+                        "feast day",
+                        "fete day"
+                    ],
+                    "part_holonym": [
+                        "December",
+                        "Dec"
+                    ]
+                }
+            }
+        ]
+    },
+    "XOR circuit": {
+        "word": "XOR circuit",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "04616711",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "gate for exclusive OR; a circuit in a computer that fires only if only one of its inputs fire",
+                "synonyms": [
+                    "X-OR circuit",
+                    "XOR gate"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "gate",
+                        "logic gate"
+                    ]
+                }
+            }
+        ]
+    },
+    "XOR gate": {
+        "word": "XOR gate",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "04616711",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "gate for exclusive OR; a circuit in a computer that fires only if only one of its inputs fire",
+                "synonyms": [
+                    "X-OR circuit",
+                    "XOR circuit"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "gate",
+                        "logic gate"
+                    ]
+                }
+            }
+        ]
+    },
+    "XT": {
+        "word": "XT",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "07445847",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the presence of an unwanted signal via an accidental coupling",
+                "synonyms": [
+                    "crosstalk"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "noise",
+                        "interference",
+                        "disturbance"
+                    ]
+                }
+            }
+        ]
+    },
+    "XTC": {
+        "word": "XTC",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02681592",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "street names for methylenedioxymethamphetamine",
+                "synonyms": [
+                    "Adam",
+                    "ecstasy",
+                    "go",
+                    "disco biscuit",
+                    "cristal",
+                    "X",
+                    "hug drug"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "methylenedioxymethamphetamine",
+                        "MDMA"
+                    ]
+                }
+            }
+        ]
+    },
+    "XV": {
+        "word": "XV",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13769609",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of fourteen and one",
+                "synonyms": [
+                    "fifteen",
+                    "15"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "XVI": {
+        "word": "XVI",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13769746",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of fifteen and one",
+                "synonyms": [
+                    "sixteen",
+                    "16"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "XVII": {
+        "word": "XVII",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13769865",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of sixteen and one",
+                "synonyms": [
+                    "seventeen",
+                    "17"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "XVIII": {
+        "word": "XVIII",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13770005",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of seventeen and one",
+                "synonyms": [
+                    "eighteen",
+                    "18"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "XX": {
+        "word": "XX",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13770268",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of nineteen and one",
+                "synonyms": [
+                    "twenty",
+                    "20"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            },
+            {
+                "synset_offset": "05450365",
+                "sense_number": 2,
+                "part_of_speech": "noun",
+                "def": "(genetics) normal complement of sex chromosomes in a female",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "sex chromosome"
+                    ],
+                    "domain_of_synset-TOPIC": [
+                        "genetics",
+                        "genetic science"
+                    ]
+                }
+            }
+        ]
+    },
+    "XXI": {
+        "word": "XXI",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13770386",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of twenty and one",
+                "synonyms": [
+                    "twenty-one",
+                    "21"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "XXII": {
+        "word": "XXII",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13770507",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of twenty-one and one",
+                "synonyms": [
+                    "twenty-two",
+                    "22"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "XXIII": {
+        "word": "XXIII",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13770633",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of twenty-two and one",
+                "synonyms": [
+                    "twenty-three",
+                    "23"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "XXIV": {
+        "word": "XXIV",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13770762",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of twenty-three and one",
+                "synonyms": [
+                    "twenty-four",
+                    "24",
+                    "two dozen"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "XXIX": {
+        "word": "XXIX",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13771418",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of twenty-eight and one",
+                "synonyms": [
+                    "twenty-nine",
+                    "29"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "XXV": {
+        "word": "XXV",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13770903",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of twenty-four and one",
+                "synonyms": [
+                    "twenty-five",
+                    "25"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "XXVI": {
+        "word": "XXVI",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13771030",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of twenty-five and one",
+                "synonyms": [
+                    "twenty-six",
+                    "26"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "XXVII": {
+        "word": "XXVII",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13771157",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of twenty-six and one",
+                "synonyms": [
+                    "twenty-seven",
+                    "27"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "XXVIII": {
+        "word": "XXVIII",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13771286",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the sum of twenty-seven and one",
+                "synonyms": [
+                    "twenty-eight",
+                    "28"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            }
+        ]
+    },
+    "XXX": {
+        "word": "XXX",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13771547",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the cardinal number that is the product of ten and three",
+                "synonyms": [
+                    "thirty",
+                    "30"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "large integer"
+                    ]
+                }
+            },
+            {
+                "synset_offset": "05450492",
+                "sense_number": 2,
+                "part_of_speech": "noun",
+                "def": "(genetics) abnormal complement of three X chromosomes in a female",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "sex chromosome"
+                    ],
+                    "domain_of_synset-TOPIC": [
+                        "genetics",
+                        "genetic science"
+                    ]
+                }
+            }
+        ]
+    },
+    "XXY": {
+        "word": "XXY",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "05450626",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "(genetics) abnormal complement of sex hormones in a male resulting in Klinefelter's syndrome",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "sex chromosome"
+                    ],
+                    "domain_of_synset-TOPIC": [
+                        "genetics",
+                        "genetic science"
+                    ]
+                }
+            }
+        ]
+    },
+    "XXY-syndrome": {
+        "word": "XXY-syndrome",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "14329902",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "syndrome in males that is characterized by small testes and long legs and enlarged breasts and reduced sperm production and mental retardation; a genetic defect in which an extra X chromosome (XXY) is present in the male",
+                "synonyms": [
+                    "Klinefelter's syndrome",
+                    "Klinefelter syndrome"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "syndrome"
+                    ]
+                }
+            }
+        ]
+    },
+    "XY": {
+        "word": "XY",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "05450787",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "(genetics) normal complement of sex hormones in a male",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "sex chromosome"
+                    ],
+                    "domain_of_synset-TOPIC": [
+                        "genetics",
+                        "genetic science"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xylaria": {
+        "word": "Xylaria",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12987341",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "type genus of Xylariaceae; fungi with perithecia in the upper part of erect black woody stromata",
+                "synonyms": [
+                    "genus Xylaria"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "fungus genus"
+                    ],
+                    "member_holonym": [
+                        "Xylariaceae",
+                        "family Xylariaceae"
+                    ],
+                    "member_meronym": [
+                        "black root rot fungus",
+                        "Xylaria mali",
+                        "dead-man's-fingers",
+                        "dead-men's-fingers",
+                        "Xylaria polymorpha"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xylaria mali": {
+        "word": "Xylaria mali",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12987564",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "fungus causing black root rot in apples",
+                "synonyms": [
+                    "black root rot fungus"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "fungus"
+                    ],
+                    "member_holonym": [
+                        "Xylaria",
+                        "genus Xylaria"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xylaria polymorpha": {
+        "word": "Xylaria polymorpha",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12987705",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the fruiting bodies of the fungi of the genus Xylaria",
+                "synonyms": [
+                    "dead-man's-fingers",
+                    "dead-men's-fingers"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "fungus"
+                    ],
+                    "member_holonym": [
+                        "Xylaria",
+                        "genus Xylaria"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xylariaceae": {
+        "word": "Xylariaceae",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12987146",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "family of fungi characterized by dark brown to black spores",
+                "synonyms": [
+                    "family Xylariaceae"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "fungus family"
+                    ],
+                    "member_holonym": [
+                        "Sphaeriales",
+                        "order Sphaeriales"
+                    ],
+                    "member_meronym": [
+                        "Xylaria",
+                        "genus Xylaria",
+                        "Rosellinia",
+                        "genus Rosellinia"
+                    ]
+                }
+            }
+        ]
+    },
+    "xylem": {
+        "word": "xylem",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "13119407",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "the woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "vascular tissue"
+                    ],
+                    "part_holonym": [
+                        "woody plant",
+                        "ligneous plant"
+                    ],
+                    "part_meronym": [
+                        "tracheid"
+                    ]
+                }
+            }
+        ]
+    },
+    "xylene": {
+        "word": "xylene",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "15130710",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a colorless flammable volatile liquid hydrocarbon used as a solvent",
+                "synonyms": [
+                    "xylol"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "solvent",
+                        "dissolvent",
+                        "dissolver",
+                        "dissolving agent",
+                        "resolvent"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xylocaine": {
+        "word": "Xylocaine",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "03667342",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a local anesthetic (trade names Lidocaine and Xylocaine) used topically on the skin and mucous membranes",
+                "synonyms": [
+                    "Lidocaine"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "local anesthetic",
+                        "local anaesthetic",
+                        "local",
+                        "topical anesthetic",
+                        "topical anaesthetic"
+                    ],
+                    "domain_of_synset-USAGE": [
+                        "trade name",
+                        "brand name",
+                        "brand",
+                        "marque"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xylocopa": {
+        "word": "Xylocopa",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02211882",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "carpenter bees",
+                "synonyms": [
+                    "genus Xylocopa"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "arthropod genus"
+                    ],
+                    "member_holonym": [
+                        "Apidae",
+                        "family Apidae"
+                    ],
+                    "member_meronym": [
+                        "carpenter bee"
+                    ]
+                }
+            }
+        ]
+    },
+    "xylol": {
+        "word": "xylol",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "15130710",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a colorless flammable volatile liquid hydrocarbon used as a solvent",
+                "synonyms": [
+                    "xylene"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "solvent",
+                        "dissolvent",
+                        "dissolver",
+                        "dissolving agent",
+                        "resolvent"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xylomelum": {
+        "word": "Xylomelum",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12244467",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "small species of Australian trees or shrubs; grown for their fruit and flowers",
+                "synonyms": [
+                    "genus Xylomelum"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "dicot genus",
+                        "magnoliopsid genus"
+                    ],
+                    "member_holonym": [
+                        "Proteaceae",
+                        "family Proteaceae",
+                        "protea family"
+                    ],
+                    "member_meronym": [
+                        "native pear",
+                        "woody pear",
+                        "Xylomelum pyriforme"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xylomelum pyriforme": {
+        "word": "Xylomelum pyriforme",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12244657",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "tree bearing pear-shaped fruit with a thick woody epicarp",
+                "synonyms": [
+                    "native pear",
+                    "woody pear"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "shrub",
+                        "bush"
+                    ],
+                    "member_holonym": [
+                        "Xylomelum",
+                        "genus Xylomelum"
+                    ]
+                }
+            }
+        ]
+    },
+    "xylophone": {
+        "word": "xylophone",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "03726875",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets",
+                "synonyms": [
+                    "marimba"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "percussion instrument",
+                        "percussive instrument"
+                    ],
+                    "derivationally_related_form": [
+                        "xylophonist"
+                    ]
+                }
+            }
+        ]
+    },
+    "xylophonist": {
+        "word": "xylophonist",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "10821301",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "someone who plays a xylophone",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "percussionist"
+                    ],
+                    "derivationally_related_form": [
+                        "xylophone"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xylopia": {
+        "word": "Xylopia",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "11717245",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "tropical evergreen trees or shrubs; chiefly African",
+                "synonyms": [
+                    "genus Xylopia"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "magnoliid dicot genus"
+                    ],
+                    "member_holonym": [
+                        "Annonaceae",
+                        "family Annonaceae",
+                        "custard-apple family"
+                    ],
+                    "member_meronym": [
+                        "Guinea pepper",
+                        "negro pepper",
+                        "Xylopia aethiopica"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xylopia aethiopica": {
+        "word": "Xylopia aethiopica",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "11717404",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "tropical west African evergreen tree bearing pungent aromatic seeds used as a condiment and in folk medicine",
+                "synonyms": [
+                    "Guinea pepper",
+                    "negro pepper"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "tree"
+                    ],
+                    "member_holonym": [
+                        "Xylopia",
+                        "genus Xylopia"
+                    ]
+                }
+            }
+        ]
+    },
+    "xylose": {
+        "word": "xylose",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "15128347",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "a sugar extracted from wood or straw; used in foods for diabetics",
+                "synonyms": [
+                    "wood sugar"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "carbohydrate",
+                        "saccharide",
+                        "sugar"
+                    ]
+                }
+            }
+        ]
+    },
+    "xylosma": {
+        "word": "xylosma",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12401612",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "shrub or small tree grown as an ornamental in mild climates for its neat evergreen foliage and fragrant late flowers; native of China",
+                "synonyms": [
+                    "Xylosma congestum"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "shrub",
+                        "bush"
+                    ],
+                    "member_holonym": [
+                        "genus Xylosma"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xylosma congestum": {
+        "word": "Xylosma congestum",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12401612",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "shrub or small tree grown as an ornamental in mild climates for its neat evergreen foliage and fragrant late flowers; native of China",
+                "synonyms": [
+                    "xylosma"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "shrub",
+                        "bush"
+                    ],
+                    "member_holonym": [
+                        "genus Xylosma"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xyphophorus": {
+        "word": "Xyphophorus",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01450806",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "swordtails",
+                "synonyms": [
+                    "genus Xyphophorus"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "fish genus"
+                    ],
+                    "member_holonym": [
+                        "Cyprinodontidae",
+                        "family Cyprinodontidae"
+                    ],
+                    "member_meronym": [
+                        "swordtail",
+                        "helleri",
+                        "topminnow",
+                        "Xyphophorus helleri"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xyphophorus helleri": {
+        "word": "Xyphophorus helleri",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "01450932",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "freshwater fish of Central America having a long swordlike tail; popular aquarium fish",
+                "synonyms": [
+                    "swordtail",
+                    "helleri",
+                    "topminnow"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "cyprinodont"
+                    ],
+                    "member_holonym": [
+                        "Xyphophorus",
+                        "genus Xyphophorus"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xyridaceae": {
+        "word": "Xyridaceae",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12626076",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "plants of tropical to temperate regions; usually in wet places",
+                "synonyms": [
+                    "family Xyridaceae",
+                    "yellow-eyed grass family"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "monocot family",
+                        "liliopsid family"
+                    ],
+                    "member_holonym": [
+                        "Xyridales",
+                        "order Xyridales",
+                        "Commelinales",
+                        "order Commelinales"
+                    ],
+                    "member_meronym": [
+                        "Xyris",
+                        "genus Xyris"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xyridales": {
+        "word": "Xyridales",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12625780",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "an order of monocotyledonous herbs",
+                "synonyms": [
+                    "order Xyridales",
+                    "Commelinales",
+                    "order Commelinales"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "plant order"
+                    ],
+                    "member_holonym": [
+                        "Commelinidae",
+                        "subclass Commelinidae"
+                    ],
+                    "member_meronym": [
+                        "Xyridaceae",
+                        "family Xyridaceae",
+                        "yellow-eyed grass family",
+                        "Commelinaceae",
+                        "family Commelinaceae",
+                        "spiderwort family",
+                        "Bromeliaceae",
+                        "family Bromeliaceae",
+                        "pineapple family",
+                        "Mayacaceae",
+                        "family Mayacaceae",
+                        "Rapateaceae",
+                        "family Rapateaceae",
+                        "Eriocaulaceae",
+                        "family Eriocaulaceae",
+                        "pipewort family",
+                        "Pontederiaceae",
+                        "family Pontederiaceae",
+                        "pickerelweed family"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xyris": {
+        "word": "Xyris",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12626280",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "chiefly American marsh plants, having usually yellow flowers",
+                "synonyms": [
+                    "genus Xyris"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "monocot genus",
+                        "liliopsid genus"
+                    ],
+                    "member_holonym": [
+                        "Xyridaceae",
+                        "family Xyridaceae",
+                        "yellow-eyed grass family"
+                    ],
+                    "member_meronym": [
+                        "yellow-eyed grass"
+                    ]
+                }
+            }
+        ]
+    },
+    "Xyris operculata": {
+        "word": "Xyris operculata",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "12626633",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "of Australia",
+                "synonyms": [
+                    "tall yellow-eye"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "yellow-eyed grass"
+                    ]
+                }
+            }
+        ]
+    },
+    "XYY": {
+        "word": "XYY",
+        "pos_order": [
+            "noun"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "05450909",
+                "sense_number": 1,
+                "part_of_speech": "noun",
+                "def": "(genetics) abnormal complement of sex hormones in a male who has two Y chromosomes",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "sex chromosome"
+                    ],
+                    "domain_of_synset-TOPIC": [
+                        "genetics",
+                        "genetic science"
+                    ]
+                }
+            }
+        ]
+    },
+    "X-linked": {
+        "word": "X-linked",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "03156978",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "relating to genes or characteristics or conditions carried on the X chromosome",
+                "example": [
+                    "an X-linked mutation"
+                ],
+                "wordnet_ptrs": {
+                    "pertainym_pertains_to_noun": [
+                        "X chromosome"
+                    ]
+                }
+            }
+        ]
+    },
+    "xanthous": {
+        "word": "xanthous",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "00386818",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk",
+                "synonyms": [
+                    "yellow",
+                    "yellowish"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "chromatic"
+                    ]
+                }
+            }
+        ]
+    },
+    "xc": {
+        "word": "xc",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02202784",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being ten more than eighty",
+                "synonyms": [
+                    "ninety",
+                    "90"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xci": {
+        "word": "xci",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02202873",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being one more than ninety",
+                "synonyms": [
+                    "ninety-one",
+                    "91"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xcii": {
+        "word": "xcii",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02202967",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being two more than ninety",
+                "synonyms": [
+                    "ninety-two",
+                    "92"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xciii": {
+        "word": "xciii",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02203062",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being three more than ninety",
+                "synonyms": [
+                    "ninety-three",
+                    "93"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xciv": {
+        "word": "xciv",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02203162",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being four more than ninety",
+                "synonyms": [
+                    "ninety-four",
+                    "94"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xcl": {
+        "word": "xcl",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02205856",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being ten more than one hundred eighty",
+                "synonyms": [
+                    "one hundred ninety",
+                    "190"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xcv": {
+        "word": "xcv",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02203259",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being five more than ninety",
+                "synonyms": [
+                    "ninety-five",
+                    "95"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xcvi": {
+        "word": "xcvi",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02203355",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being six more than ninety",
+                "synonyms": [
+                    "ninety-six",
+                    "96"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xcvii": {
+        "word": "xcvii",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02203450",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being seven more than ninety",
+                "synonyms": [
+                    "ninety-seven",
+                    "97"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xcviii": {
+        "word": "xcviii",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02203550",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being eight more than ninety",
+                "synonyms": [
+                    "ninety-eight",
+                    "98"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xenogeneic": {
+        "word": "xenogeneic",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02606374",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "denoting or relating to cells or tissues from individuals belonging to different species",
+                "wordnet_ptrs": {
+                    "derivationally_related_form": [
+                        "immunology"
+                    ],
+                    "antonym": [
+                        "allogeneic"
+                    ]
+                }
+            }
+        ]
+    },
+    "xenophobic": {
+        "word": "xenophobic",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "00081983",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "suffering from xenophobia; having abnormal fear or hatred of the strange or foreign",
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "afraid"
+                    ],
+                    "derivationally_related_form": [
+                        "xenophobia"
+                    ]
+                }
+            }
+        ]
+    },
+    "xeric": {
+        "word": "xeric",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02599077",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being deficient in moisture",
+                "example": [
+                    "deserts provide xeric environments"
+                ],
+                "wordnet_ptrs": {
+                    "antonym": [
+                        "hydric",
+                        "mesic"
+                    ],
+                    "similar_to": [
+                        "xerophytic"
+                    ]
+                }
+            }
+        ]
+    },
+    "xerographic": {
+        "word": "xerographic",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "03142526",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "of or relating to xerography",
+                "wordnet_ptrs": {
+                    "derivationally_related_form": [
+                        "xerography"
+                    ],
+                    "pertainym_pertains_to_noun": [
+                        "xerography"
+                    ]
+                }
+            }
+        ]
+    },
+    "xerophytic": {
+        "word": "xerophytic",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02599230",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "adapted to a xeric (or dry) environment",
+                "example": [
+                    "cacti are xerophytic plants",
+                    "xerophytic adaptations"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "xeric"
+                    ],
+                    "derivationally_related_form": [
+                        "xerophyte"
+                    ]
+                }
+            }
+        ]
+    },
+    "xii": {
+        "word": "xii",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02195104",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "denoting a quantity consisting of 12 items or units",
+                "synonyms": [
+                    "twelve",
+                    "12",
+                    "dozen"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xiii": {
+        "word": "xiii",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02195245",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being one more than twelve",
+                "synonyms": [
+                    "thirteen",
+                    "13"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xiv": {
+        "word": "xiv",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02195338",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being one more than thirteen",
+                "synonyms": [
+                    "fourteen",
+                    "14"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xix": {
+        "word": "xix",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02195844",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being one more than eighteen",
+                "synonyms": [
+                    "nineteen",
+                    "19"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xl": {
+        "word": "xl",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02197917",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being ten more than thirty",
+                "synonyms": [
+                    "forty",
+                    "40",
+                    "twoscore"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xli": {
+        "word": "xli",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02198016",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being one more than forty",
+                "synonyms": [
+                    "forty-one",
+                    "41"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xlii": {
+        "word": "xlii",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02198108",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being two more than forty",
+                "synonyms": [
+                    "forty-two",
+                    "42"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xliii": {
+        "word": "xliii",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02198201",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being three more than forty",
+                "synonyms": [
+                    "forty-three",
+                    "43"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xliv": {
+        "word": "xliv",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02198299",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being four more than forty",
+                "synonyms": [
+                    "forty-four",
+                    "44"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xlv": {
+        "word": "xlv",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02198394",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being five more than forty",
+                "synonyms": [
+                    "forty-five",
+                    "45"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xlvi": {
+        "word": "xlvi",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02198488",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being six more than forty",
+                "synonyms": [
+                    "forty-six",
+                    "46"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xlvii": {
+        "word": "xlvii",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02198581",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being seven more than forty",
+                "synonyms": [
+                    "forty-seven",
+                    "47"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xlviii": {
+        "word": "xlviii",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02198679",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being eight more than forty",
+                "synonyms": [
+                    "forty-eight",
+                    "48"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xv": {
+        "word": "xv",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02195432",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being one more than fourteen",
+                "synonyms": [
+                    "fifteen",
+                    "15"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xvi": {
+        "word": "xvi",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02195542",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being one more than fifteen",
+                "synonyms": [
+                    "sixteen",
+                    "16"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xvii": {
+        "word": "xvii",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02195634",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being one more than sixteen",
+                "synonyms": [
+                    "seventeen",
+                    "17"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xviii": {
+        "word": "xviii",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02195747",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being one more than seventeen",
+                "synonyms": [
+                    "eighteen",
+                    "18"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xx": {
+        "word": "xx",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02195956",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "denoting a quantity consisting of 20 items or units",
+                "synonyms": [
+                    "twenty",
+                    "20"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xxi": {
+        "word": "xxi",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02196070",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being one more than twenty",
+                "synonyms": [
+                    "twenty-one",
+                    "21"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xxii": {
+        "word": "xxii",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02196164",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being two more than twenty",
+                "synonyms": [
+                    "twenty-two",
+                    "22"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xxiii": {
+        "word": "xxiii",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02196259",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being three more than twenty",
+                "synonyms": [
+                    "twenty-three",
+                    "23"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xxiv": {
+        "word": "xxiv",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02196359",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being four more than twenty",
+                "synonyms": [
+                    "twenty-four",
+                    "24"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xxix": {
+        "word": "xxix",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02196848",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being nine more than twenty",
+                "synonyms": [
+                    "twenty-nine",
+                    "29"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xxv": {
+        "word": "xxv",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02196456",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being five more than twenty",
+                "synonyms": [
+                    "twenty-five",
+                    "25"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xxvi": {
+        "word": "xxvi",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02196552",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being six more than twenty",
+                "synonyms": [
+                    "twenty-six",
+                    "26"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xxvii": {
+        "word": "xxvii",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02196647",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being seven more than twenty",
+                "synonyms": [
+                    "twenty-seven",
+                    "27"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xxviii": {
+        "word": "xxviii",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02196747",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being eight more than twenty",
+                "synonyms": [
+                    "twenty-eight",
+                    "28"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xxx": {
+        "word": "xxx",
+        "pos_order": [
+            "noun",
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02196945",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being ten more than twenty",
+                "synonyms": [
+                    "thirty",
+                    "30"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xxxi": {
+        "word": "xxxi",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02197035",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being one more than thirty",
+                "synonyms": [
+                    "thirty-one",
+                    "31"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xxxii": {
+        "word": "xxxii",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02197130",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being two more than thirty",
+                "synonyms": [
+                    "thirty-two",
+                    "32"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xxxiii": {
+        "word": "xxxiii",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02197226",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being three more than thirty",
+                "synonyms": [
+                    "thirty-three",
+                    "33"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xxxiv": {
+        "word": "xxxiv",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02197327",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being four more than thirty",
+                "synonyms": [
+                    "thirty-four",
+                    "34"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xxxv": {
+        "word": "xxxv",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02197425",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being five more than thirty",
+                "synonyms": [
+                    "thirty-five",
+                    "35"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xxxvi": {
+        "word": "xxxvi",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02197522",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being six more than thirty",
+                "synonyms": [
+                    "thirty-six",
+                    "36"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xxxvii": {
+        "word": "xxxvii",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02197618",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being seven more than thirty",
+                "synonyms": [
+                    "thirty-seven",
+                    "37"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "xxxviii": {
+        "word": "xxxviii",
+        "pos_order": [
+            "adjective"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02197719",
+                "sense_number": 1,
+                "part_of_speech": "adjective",
+                "def": "being eight more than thirty",
+                "synonyms": [
+                    "thirty-eight",
+                    "38"
+                ],
+                "wordnet_ptrs": {
+                    "similar_to": [
+                        "cardinal"
+                    ]
+                }
+            }
+        ]
+    },
+    "x-ray": {
+        "word": "x-ray",
+        "pos_order": [
+            "noun",
+            "verb"
+        ],
+        "meanings": [
+            {
+                "synset_offset": "02154216",
+                "sense_number": 1,
+                "part_of_speech": "verb",
+                "def": "examine by taking x-rays",
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "examine",
+                        "see"
+                    ],
+                    "derivationally_related_form": [
+                        "X-raying"
+                    ]
+                }
+            },
+            {
+                "synset_offset": "01005930",
+                "sense_number": 2,
+                "part_of_speech": "verb",
+                "def": "take an x-ray of something or somebody",
+                "example": [
+                    "The doctor x-rayed my chest"
+                ],
+                "wordnet_ptrs": {
+                    "hypernym": [
+                        "photograph",
+                        "snap",
+                        "shoot"
+                    ],
+                    "domain_of_synset-TOPIC": [
+                        "photography",
+                        "picture taking"
+                    ],
+                    "derivationally_related_form": [
+                        "X-raying"
+                    ]
+                }
+            }
+        ]
+    }
+}
